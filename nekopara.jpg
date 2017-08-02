@@ -1,1 +1,4 @@
-# aaaa
+git add nekopara.png
+git commit -m 'add png file'
+git remote add origin https://github.com/aaaa.git
+git push -u origin master
